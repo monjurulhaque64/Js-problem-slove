@@ -32,7 +32,7 @@ function romanToInteger(roman) {
     return result;
   }
   
-  // Example usage:
+
   console.log(romanToInteger("IX")); 
   console.log(romanToInteger("XXI")); 
   
